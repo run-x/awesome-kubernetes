@@ -1,0 +1,17 @@
+site_name: Awesome Kubernetes
+site_url: https://awesome-kubernetes.com
+repo_url: https://github.com/run-x/awesome-kubernetes
+repo_name: Github
+site_description: A curated list for awesome kubernetes projects, tools and resources.
+site_author: JD Palomino
+nav:
+  - "Because the Kubernetes Ecosystem is too crazy without a directory": "README.md"
+theme:
+  name: material
+  palette:
+    primary: blue
+    accent: orange
+extra:
+  social:
+    - type: github
+      link: https://github.com/run-x
