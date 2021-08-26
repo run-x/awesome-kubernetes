@@ -23,6 +23,7 @@ Inspired by [@sindresorhus' awesome](https://github.com/sindresorhus/awesome)
     - [Security](#security)
 - [Resources](#resources)
   - [Hosted Platforms](#hosted-platforms)
+  - [Blog Posts](#blog-posts)
   - [Documentation](#documentation)
   - [Books](#books)
   - [Meetups](#meetups)
@@ -98,6 +99,9 @@ Inspired by [@sindresorhus' awesome](https://github.com/sindresorhus/awesome)
 ### Documentation
 - [Official Kubernetes Documentation](https://kubernetes.io/docs/home/)
 - [Kubernetes the Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way) ![runx](media/runx_symbol.png)
+
+### Blog Posts
+- [Microservice Security Design Patterns for Kubernetes](https://blog.kellybrazil.com/2019/12/05/microservice-security-design-patterns-for-kubernetes-part-1/)
 
 ### Books
 - [Kubernetes Up and Running](https://www.oreilly.com/library/view/kubernetes-up-and/9781492046523/)
