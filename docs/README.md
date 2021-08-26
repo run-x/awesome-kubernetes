@@ -39,6 +39,7 @@ Inspired by [@sindresorhus' awesome](https://github.com/sindresorhus/awesome)
 - [App Mesh](https://aws.amazon.com/app-mesh/) - AWS' service mesh for ECS/EKS.
 - [Kong Mesh](https://docs.konghq.com/mesh/) - Kuma-based, enterprise-grade service mesh that runs on both Kubernetes and VMs on any cloud
 - [Kuma](https://kuma.io/) ![cncf](media/cncf_symbol.png) - The universal Envoy service mesh for distributed service connectivity.
+- [Traefik Mesh](https://traefik.io/traefik-mesh/) ![cncf](media/cncf_symbol.png) - Traefik Mesh is a simple, yet full-featured service mesh powered by the [Traefik Proxy](https://traefik.io/traefik/).
 - [Consul](https://www.hashicorp.com/products/consul/multi-platform-service-mesh) - Hashicorp's Multi-Platform Service Mesh
 
 ### Observability and Monitoring
@@ -49,12 +50,14 @@ Inspired by [@sindresorhus' awesome](https://github.com/sindresorhus/awesome)
 - [Datadog for Kubernetes](https://docs.datadoghq.com/agent/kubernetes/?tab=helm) - Simple SaaS metrics and logging solution for Kubernetes.
 - [Jaeger](https://www.jaegertracing.io/) ![cncf](media/cncf_symbol.png) - Open source, end-to-end distributed tracing
 - [Fluentd](https://www.fluentd.org/) ![cncf](media/cncf_symbol.png) - Open source data collector for unified logging layer.
+- [Loki](https://github.com/grafana/loki) - Loki is a horizontally-scalable, highly-available, multi-tenant log aggregation system inspired by Prometheus.
 
 ### CI/CD
 - [Codefresh](https://codefresh.io/) - GitOps automation platform for Kubernetes apps.
 - [Helm](https://helm.sh/) ![runx](media/runx_symbol.png) - The package manager for Kubernetes.
 - [Argocd](https://argoproj.github.io/argo-cd/) ![cncf](media/cncf_symbol.png) - A declarative, GitOps continuous delivery tool for Kubernetes.
 - [Flagger](https://flagger.app/) ![cncf](media/cncf_symbol.png) ![runx](media/runx_symbol.png) - Progressive Delivery Operator for Kubernetes (canary deployments).
+- [Flux](https://github.com/fluxcd/flux2) ![cncf](media/cncf_symbol.png) - Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
 
 ### Ingress/API Gateways
 - [Ingress Nginx](https://kubernetes.github.io/ingress-nginx/) ![cncf](media/cncf_symbol.png) ![runx](media/runx_symbol.png) - An Ingress controller for Kubernetes using NGINX as a reverse proxy and load balancer. Maintained by the Kubernetes project directly.
@@ -76,10 +79,12 @@ Inspired by [@sindresorhus' awesome](https://github.com/sindresorhus/awesome)
 - [Operator Framework](https://sdk.operatorframework.io/) ![cncf](media/cncf_symbol.png) - An open source toolkit to manage Kubernetes native applications, called Operators, in an effective, automated, and scalable way.
 - [Botkube](https://www.botkube.io/) - BotKube is a messaging bot for monitoring and debugging Kubernetes clusters.
 - [Kopf](https://kopf.readthedocs.io/en/latest/) - A Kubernetes operator framework built for python development instead of golang.
+- [Kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) ![cncf](media/cncf_symbol.png) - Kubebuilder is a framework for building Kubernetes APIs using custom resource definitions (CRDs).
 
 ### Security
 - [Falco](https://falco.org/) ![cncf](media/cncf_symbol.png) - An open source security tool for kubernete ssystem. 
 - [Certmanager](https://cert-manager.io/) ![cncf](media/cncf_symbol.png) ![runx](media/runx_symbol.png) - Provide 'certificates as a service' securely to developers and applications working within your cluster.
+- [Kyverno](https://kyverno.io/) - Kubernetes Native Policy Management
 
 ## Resources
 
