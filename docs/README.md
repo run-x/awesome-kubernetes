@@ -33,6 +33,7 @@ Inspired by [@sindresorhus' awesome](https://github.com/sindresorhus/awesome)
 ### Devops Experience
 - [Teleport](https://github.com/gravitational/teleport) - Teleport allows engineers and security professionals to unify access for SSH servers, Kubernetes clusters, web applications, and databases across all environments.
 - [Telepresence](https://www.telepresence.io/) ![cncf](media/cncf_symbol.png) - Fast, local development for Kubernetes microservices
+- [Sparrow](https://github.com/melezhik/Sparrow6) - Automation framework  written on Raku has some [plugins](http://sparrowhub.io/search?q=k8s) to verify k8s resources - useful for infrastructure testing.
 
 ### Service Meshes
 - [Linkerd](https://linkerd.io/) ![cncf](media/cncf_symbol.png)  ![runx](media/runx_symbol.png)  - Ultra-light, zero-config Kubernetes bespoke service mesh.
