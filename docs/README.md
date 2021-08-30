@@ -60,6 +60,7 @@ Inspired by [@sindresorhus' awesome](https://github.com/sindresorhus/awesome)
 - [Argocd](https://argoproj.github.io/argo-cd/) ![cncf](media/cncf_symbol.png) - A declarative, GitOps continuous delivery tool for Kubernetes.
 - [Flagger](https://flagger.app/) ![cncf](media/cncf_symbol.png) ![runx](media/runx_symbol.png) - Progressive Delivery Operator for Kubernetes (canary deployments).
 - [Flux](https://github.com/fluxcd/flux2) ![cncf](media/cncf_symbol.png) - Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
+- [werf](https://github.com/werf/werf) - CLI tool "glueing" Git, Docker, container regsitry, Helm & Kubernetes with any CI system to implement CI/CD and Giterminism (GitOps-like approach).
 
 ### Ingress/API Gateways
 - [Ingress Nginx](https://kubernetes.github.io/ingress-nginx/) ![cncf](media/cncf_symbol.png) ![runx](media/runx_symbol.png) - An Ingress controller for Kubernetes using NGINX as a reverse proxy and load balancer. Maintained by the Kubernetes project directly.
