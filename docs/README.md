@@ -82,6 +82,7 @@ Inspired by [@sindresorhus' awesome](https://github.com/sindresorhus/awesome)
 - [Botkube](https://www.botkube.io/) - BotKube is a messaging bot for monitoring and debugging Kubernetes clusters.
 - [Kopf](https://kopf.readthedocs.io/en/latest/) - A Kubernetes operator framework built for python development instead of golang.
 - [Kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) ![cncf](media/cncf_symbol.png) - Kubebuilder is a framework for building Kubernetes APIs using custom resource definitions (CRDs).
+- [shell-operator](https://github.com/flant/shell-operator) - A tool to easily implement Kubernetes operators using any binaries (Bash, Python, etc.).
 
 ### Security
 - [Falco](https://falco.org/) ![cncf](media/cncf_symbol.png) - An open source security tool for kubernete ssystem. 
