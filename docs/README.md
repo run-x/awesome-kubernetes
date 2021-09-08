@@ -21,6 +21,7 @@ Inspired by [@sindresorhus' awesome](https://github.com/sindresorhus/awesome)
     - [Databases & Storage](#databases--storage)
     - [Kubernetes Development Tools](#kubernetes-development-tools)
     - [Security](#security)
+    - [Workflows](#workflows)
 - [Resources](#resources)
   - [Hosted Platforms](#hosted-platforms)
   - [Blog Posts](#blog-posts)
@@ -89,6 +90,10 @@ Inspired by [@sindresorhus' awesome](https://github.com/sindresorhus/awesome)
 - [Falco](https://falco.org/) ![cncf](media/cncf_symbol.png) - An open source security tool for kubernete ssystem. 
 - [Certmanager](https://cert-manager.io/) ![cncf](media/cncf_symbol.png) ![runx](media/runx_symbol.png) - Provide 'certificates as a service' securely to developers and applications working within your cluster.
 - [Kyverno](https://kyverno.io/) - Kubernetes Native Policy Management
+
+### Workflows
+- [Argo Workflows](https://argoproj.github.io/workflows/) ![cncf](media/cncf_symbol.png) - Kubernetes-native workflow engine supporting DAG and step-based workflows.
+- [KubeFlow](https://www.kubeflow.org/) - Make deployments of machine learning (ML) workflows on Kubernetes simple, portable and scalable.
 
 ## Resources
 
