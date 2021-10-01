@@ -35,6 +35,8 @@ Inspired by [@sindresorhus' awesome](https://github.com/sindresorhus/awesome)
 - [Teleport](https://github.com/gravitational/teleport) - Teleport allows engineers and security professionals to unify access for SSH servers, Kubernetes clusters, web applications, and databases across all environments.
 - [Telepresence](https://www.telepresence.io/) ![cncf](media/cncf_symbol.png) - Fast, local development for Kubernetes microservices
 - [Tilt](https://tilt.dev/) - A toolkit for fixing the pains of multi-service development. Tilt gives you smart rebuilds and live updates everywhere so that you can make progress.
+- [k9s](https://github.com/derailed/k9s) - CLI to manage your clusters
+- [Lens](https://github.com/lensapp/lens) - GUI to manage your clusters
 
 ### Service Meshes
 - [Linkerd](https://linkerd.io/) ![cncf](media/cncf_symbol.png)  ![runx](media/runx_symbol.png)  - Ultra-light, zero-config Kubernetes bespoke service mesh.
