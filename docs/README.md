@@ -65,6 +65,9 @@ Inspired by [@sindresorhus' awesome](https://github.com/sindresorhus/awesome)
 - [Flux](https://github.com/fluxcd/flux2) ![cncf](media/cncf_symbol.png) - Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
 - [werf](https://github.com/werf/werf) - CLI tool "glueing" Git, Docker, container regsitry, Helm & Kubernetes with any CI system to implement CI/CD and Giterminism (GitOps-like approach).
 
+### Networking
+- [Netris](https://netris.ai/kubernetes) - Automatic operation of your physical network from the Kubernetes API.  Network services include Load Balancing, Firewalling, VPN, BGP.  Free for production use, with Slack support. 
+
 ### Ingress/API Gateways
 - [Ingress Nginx](https://kubernetes.github.io/ingress-nginx/) ![cncf](media/cncf_symbol.png) ![runx](media/runx_symbol.png) - An Ingress controller for Kubernetes using NGINX as a reverse proxy and load balancer. Maintained by the Kubernetes project directly.
 - [Emissary Ingress (the ingress formerly known as Ambassador)](https://www.getambassador.io/) ![cncf](media/cncf_symbol.png) - Envoy Proxy-based Kubernetes Ingress Controller and API Gateway
