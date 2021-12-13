@@ -12,6 +12,8 @@ Inspired by [@sindresorhus' awesome](https://github.com/sindresorhus/awesome)
 ## Contents
 
 - [Awesome Kubernetes](#awesome-kubernetes)
+    - [Symbols](#symbols)
+  - [Contents](#contents)
     - [Devops Experience](#devops-experience)
     - [Service Meshes](#service-meshes)
     - [Observability and Monitoring](#observability-and-monitoring)
@@ -22,14 +24,14 @@ Inspired by [@sindresorhus' awesome](https://github.com/sindresorhus/awesome)
     - [Kubernetes Development Tools](#kubernetes-development-tools)
     - [Security](#security)
     - [Workflows](#workflows)
-- [Resources](#resources)
-  - [Hosted Platforms](#hosted-platforms)
-  - [Blog Posts](#blog-posts)
-  - [Documentation](#documentation)
-  - [Books](#books)
-  - [Meetups](#meetups)
-  - [Podcasts](#podcasts)
-  - [Talks](#talks)
+  - [Resources](#resources)
+    - [Hosted Platforms](#hosted-platforms)
+    - [Documentation](#documentation)
+    - [Blog Posts](#blog-posts)
+    - [Books](#books)
+    - [Meetups](#meetups)
+    - [Podcasts](#podcasts)
+    - [Talks](#talks)
 
 ### Devops Experience
 - [Teleport](https://github.com/gravitational/teleport) - Teleport allows engineers and security professionals to unify access for SSH servers, Kubernetes clusters, web applications, and databases across all environments.
@@ -56,6 +58,7 @@ Inspired by [@sindresorhus' awesome](https://github.com/sindresorhus/awesome)
 - [Jaeger](https://www.jaegertracing.io/) ![cncf](media/cncf_symbol.png) - Open source, end-to-end distributed tracing
 - [Fluentd](https://www.fluentd.org/) ![cncf](media/cncf_symbol.png) - Open source data collector for unified logging layer.
 - [Loki](https://github.com/grafana/loki) - Loki is a horizontally-scalable, highly-available, multi-tenant log aggregation system inspired by Prometheus.
+- [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics is a fast, cost-effective and scalable monitoring solution and time series database.
 
 ### CI/CD
 - [Codefresh](https://codefresh.io/) - GitOps automation platform for Kubernetes apps.
