@@ -48,6 +48,7 @@ Inspired by [@sindresorhus' awesome](https://github.com/sindresorhus/awesome)
 - [Consul](https://www.hashicorp.com/products/consul/multi-platform-service-mesh) - Hashicorp's Multi-Platform Service Mesh
 
 ### Observability and Monitoring
+- [Mizu](https://github.com/up9inc/mizu) - API traffic viewer for Kubernetes enabling you to view all API communication between microservices. Think TCPDump and Wireshark re-invented for Kubernetes
 - [Kubecost](https://www.kubecost.com/) - Kubecost provides real-time cost visibility and insights for teams using Kubernetes, helping you continuously reduce your cloud costs.
 - [Prometheus](https://prometheus.io/) ![cncf](media/cncf_symbol.png) - Powerful system metrics for Kubernetes.
 - [Grafana](https://grafana.com/) ![runx](media/runx_symbol.png) - Beautiful metrics dashboards.
